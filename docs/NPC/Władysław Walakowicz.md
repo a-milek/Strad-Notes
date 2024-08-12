@@ -1,0 +1,25 @@
+---
+typ: NPC
+kampania: Strad
+lokalizacja:
+  - "[Valaki](../lokacje/Valaki.md)"
+tags:
+  - dead
+---
+
+## Wygląd
+- umięśniony
+- potężny
+## Wiadomości
+- były burmistrz [Valaki](../lokacje/Valaki.md)
+
+
+## Umiejętności
+
+## Występowanie
+- [5_04082024 Pani Wachter, Rybak i Wampiry](../sesje/5_04082024%20Pani%20Wachter,%20Rybak%20i%20Wampiry.md)
+
+
+
+
+
